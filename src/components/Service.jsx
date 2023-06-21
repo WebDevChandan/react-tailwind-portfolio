@@ -33,20 +33,20 @@ const Service = () => {
                 </div>
                 <div className='text-center shadow-lg p-10 rounded-xl my-10 dark:shadow-blue-300 dark:shadow-md'>
                     <img className='m-auto' src={code} alt="desing" width={100} height={100} />
-                    <h3 className='text-lg font-medium pt-8 pb-2 lg:text-xl'>Beautiful Designs</h3>
+                    <h3 className='text-lg font-medium pt-8 pb-2 lg:text-xl'>Clean Code</h3>
                     <p className='py-2 dark:text-gray-300 lg:text-lg xl:text-xl'>
-                        Creating elegant desings suited for your desing theory.
+                        Clean code is the identity of a Professional Developer
                     </p>
-                    <h4 className='py-4 text-teal-600 xl:text-lg'>Design tools I Use</h4>
-                    <p className='text-gray-800 py-1 dark:text-blue-300 xl:text-lg'>Photoshop</p>
-                    <p className='text-gray-800 py-1 dark:text-blue-300 xl:text-lg'>Illustrator</p>
-                    <p className='text-gray-800 py-1 dark:text-blue-300 xl:text-lg'>Figma</p>
+                    <h4 className='py-4 text-teal-600 xl:text-lg'>Coding tools I Use</h4>
+                    <p className='text-gray-800 py-1 dark:text-blue-300 xl:text-lg'>VS Code</p>
+                    <p className='text-gray-800 py-1 dark:text-blue-300 xl:text-lg'>Spring Tool Suite</p>
+                    <p className='text-gray-800 py-1 dark:text-blue-300 xl:text-lg'>Eclipse</p>
                 </div>
                 <div className='text-center shadow-lg p-10 rounded-xl my-10 dark:shadow-blue-300 dark:shadow-md'>
                     <img className='m-auto' src={consulting} alt="desing" width={100} height={100} />
-                    <h3 className='text-lg font-medium pt-8 pb-2 lg:text-xl'>Beautiful Designs</h3>
+                    <h3 className='text-lg font-medium pt-8 pb-2 lg:text-xl'>Flexible Support</h3>
                     <p className='py-2 dark:text-gray-300 lg:text-lg xl:text-xl'>
-                        Creating elegant desings suited for your desing theory.
+                        24x7 Support with Porper Guidence.
                     </p>
                     <h4 className='py-4 text-teal-600 xl:text-lg'>Design tools I Use</h4>
                     <p className='text-gray-800 py-1 dark:text-blue-300 xl:text-lg'>Photoshop</p>
