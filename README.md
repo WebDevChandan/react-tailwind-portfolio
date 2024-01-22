@@ -1,4 +1,4 @@
-<h1> React Tailwind Portfolio  </h1>
+<h1> React Portfolio built using Tailwind  </h1>
 
 # Getting Started with Vite
 
